@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "categoryId": 100,
+    "title": "Упражения",
+    "icon": "https://www.svgrepo.com/show/125715/exercise.svg"
+  },
+  {
+    "id": 1,
+    "categoryId": 200,
+    "title": "Фармакология",
+    "icon": "https://www.svgrepo.com/show/102720/pharmacy.svg"
+  },
+  {
+    "id": 2,
+    "categoryId": 300,
+    "title": "Спортивное питание",
+    "icon": "https://www.svgrepo.com/show/355481/milk.svg"
+  },
+  {
+    "id": 3,
+    "categoryId": 400,
+    "title": "Состав и таблица калорийности продуктов",
+    "icon": "https://www.svgrepo.com/show/311744/bagel.svg"
+  },
+  {
+    "id": 4,
+    "categoryId": 500,
+    "title": "Энциклопедия",
+    "icon": "https://www.svgrepo.com/show/19554/book.svg"
+  }
+]
