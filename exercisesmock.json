@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Жим Свена",
+    "description": "",
+    "instructions": [],
+    "image": "https://put-sily.ru/wp-content/uploads/8/8/7/887c9229a065e2723f3f8f3283da6b6f.jpeg",
+    "video": "",
+    "categoryId": 1,
+    "tags": null
+  },
+  {
+    "id": 2,
+    "name": "Жим Арнольда",
+    "description": "",
+    "instructions": [],
+    "image": "https://dailyfit.ru/wp-content/uploads/2013/02/82_2.jpg",
+    "video": "",
+    "categoryId": 1,
+    "tags": null
+  },
+  {
+    "id": 3,
+    "name": "Жим Сины",
+    "description": "",
+    "instructions": [],
+    "image": "https://litmap.ru/wp-content/uploads/c/f/2/cf2275946205b2f7eefc39c20e2b1f65.jpeg",
+    "video": "",
+    "categoryId": 1,
+    "tags": null
+  },
+  {
+    "id": 4,
+    "name": "Проход колесом",
+    "description": "",
+    "instructions": [],
+    "image": "https://i.ytimg.com/vi/eDwnAmR5llY/maxresdefault.jpg",
+    "video": "",
+    "categoryId": 1,
+    "tags": null
+  }
+]
